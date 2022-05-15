@@ -27,12 +27,9 @@ static float change_to_give(float n){
     n = n - (num_of_nickels*nickel);
     Console.WriteLine("After,N: "+ n);//!for testing\
 
-    // int total_change = 0;
-    // total_change = Convert.ToInt32(num_of_quaters + num_of_dimes + num_of_nickels);
-
-    // Console.WriteLine(num_of_quaters);
-    // Console.WriteLine(num_of_nickels);
-    // Console.WriteLine(change);
+    int total_change = 0;
+    total_change = Convert.ToInt32(num_of_quaters + num_of_dimes + num_of_nickels);
+    Console.WriteLine("Total Change: "+total_change);
     return (n);
 }
 
