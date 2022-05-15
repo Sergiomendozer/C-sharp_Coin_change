@@ -1,0 +1,15 @@
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\bin\Debug\net6.0\coin_change.exe
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\bin\Debug\net6.0\coin_change.deps.json
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\bin\Debug\net6.0\coin_change.runtimeconfig.json
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\bin\Debug\net6.0\coin_change.dll
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\bin\Debug\net6.0\coin_change.pdb
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.csproj.AssemblyReference.cache
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.AssemblyInfoInputs.cache
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.AssemblyInfo.cs
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.csproj.CoreCompileInputs.cache
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.dll
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\refint\coin_change.dll
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.pdb
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\coin_change.genruntimeconfig.cache
+C:\Users\X2\OneDrive\Documents\GITHUB\C-sharp_Coin_change\obj\Debug\net6.0\ref\coin_change.dll
