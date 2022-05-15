@@ -8,25 +8,24 @@ static float change_to_give(float n){
 
     float num_of_quaters = n/ quater;
     num_of_quaters = Convert.ToInt32(Math.Floor(num_of_quaters));
-    Console.WriteLine(num_of_quaters);
-    // n = n - (num_of_quaters*quater);
-    // Console.WriteLine('n'+ n);
+    Console.WriteLine("0.25: "+num_of_quaters);//!for testing\
+    Console.WriteLine("n: "+ n);//!for testing\
+    n = n - (num_of_quaters*quater);
+    Console.WriteLine("After,N: "+ n);//!for testing\
 
-    // float num_of_dimes = n/ dime;
-    // num_of_dimes = Convert.ToInt32(num_of_dimes);
-    // n = n - (num_of_dimes*dime);
-    // Console.WriteLine('n'+ n);
+    float num_of_dimes = n/ dime;
+    num_of_dimes = Convert.ToInt32(Math.Floor(num_of_dimes));
+    Console.WriteLine("0.10: "+num_of_dimes);//!for testing\
+    Console.WriteLine("n: "+ n);//!for testing\
+    n = n - (num_of_dimes*dime);
+    Console.WriteLine("After,N: "+ n);//!for testing\
 
-    // float num_of_nickels = n/ nickel;
-    // num_of_nickels = Convert.ToInt32(num_of_nickels);
-    // n = n - (num_of_dimes*dime);
-
-    // float num_of_nickels = change/ quater;
-    // num_of_quaters = Convert.ToInt32(num_of_quaters);
-    // change = change - (num_of_quaters*quater);
-    // change = change/ dimes;
-    // change = change/ quater;
-    // change = change/ quater;
+    float num_of_nickels = n/ nickel;
+    num_of_nickels = Convert.ToInt32(Math.Floor(num_of_nickels));
+    Console.WriteLine("0.05: "+num_of_nickels);//!for testing\
+    Console.WriteLine("n: "+ n);//!for testing\
+    n = n - (num_of_nickels*nickel);
+    Console.WriteLine("After,N: "+ n);//!for testing\
 
     // int total_change = 0;
     // total_change = Convert.ToInt32(num_of_quaters + num_of_dimes + num_of_nickels);
@@ -42,5 +41,5 @@ static float change_to_give(float n){
 // Console.WriteLine(change);
 //! tests
 // float change = Single.Parse("2"); // 8 
-float change = Single.Parse("0.65"); // 3
-change_to_give(change); 
+float amount = Single.Parse("0.66"); // 3
+change_to_give(amount); 
